@@ -2,9 +2,9 @@
 
 Java Experiments is a project for this and that which may be interesting in Java.
 
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+image:https://img.shields.io/badge/License-MIT-yellow.svg[]
+image:https://img.shields.io/badge/commitizen-friendly-brightgreen.svg[]
 
 
 Though most of the modules of this project use SpringBoot many of the features tested in this experiments do
