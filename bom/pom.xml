@@ -7,16 +7,9 @@
     <modelVersion>4.0.0</modelVersion>
 
 
-    <parent>
-        <artifactId>parent</artifactId>
-        <groupId>com.rjc.java_experiments</groupId>
-        <version>1.0-SNAPSHOT</version>
-        <relativePath>../parent/pom.xml</relativePath>
-    </parent>
-
-
     <groupId>com.rjc.java_experiments</groupId>
     <artifactId>bom</artifactId>
+    <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
 
@@ -35,5 +28,6 @@
         </dependencies>
 
     </dependencyManagement>
+
 
 </project>
