@@ -1,0 +1,23 @@
+{
+  "name": "java-experiments",
+  "version": "1.0.0",
+  "description": "Java experiments",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoJuarez/java-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertoJuarez/java-experiments/issues"
+  },
+  "homepage": "https://github.com/RobertoJuarez/java-experiments#readme"
+}
