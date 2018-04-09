@@ -10,6 +10,9 @@
     <groupId>com.rjc.java_experiments</groupId>
     <artifactId>parent</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>../bom</module>
+    </modules>
     <packaging>pom</packaging>
 
 
@@ -17,5 +20,31 @@
         This module is the parent pom for the project.
     </description>
 
-    
+
+    <properties>
+
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.10</java.version>
+
+    </properties>
+
+
+    <dependencyManagement>
+
+        <dependencies>
+
+            <dependency>
+                <groupId>com.rjc.java_experiments</groupId>
+                <artifactId>bom</artifactId>
+                <version>1.0-SNAPSHOT</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+
+        </dependencies>
+
+    </dependencyManagement>
+
+
 </project>
