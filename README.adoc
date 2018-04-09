@@ -1,1 +1,8 @@
-# java-experiments
+= Java Experiments
+
+Java Experiments is a project for this and that which may be interesting in Java.
+
+Though most of the modules of this project use SpringBoot many of the features tested in this experiments do
+not require Spring nor any other framework ( using Spring Boot is also a way to experiment with
+SpringBoot ). You just need a proper Java Development Kit.
+
