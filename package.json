@@ -8,7 +8,8 @@
     "cz-conventional-changelog": "^2.1.0"
   },
   "scripts": {
-    "commit": "node bin/git-cz"
+    "commit": "node bin/git-cz",
+    "commitmsg": "validate-commit-msg"
   },
   "config": {
     "commitizen": {
