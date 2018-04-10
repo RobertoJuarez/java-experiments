@@ -1,4 +1,4 @@
-package com.rjc.java_experiments.profile_aware_spring_boot_app_annotation;
+package com.rjc.java_experiments.local_profile_spring_boot_starter;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanDefinition;

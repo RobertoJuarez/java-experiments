@@ -1,7 +1,12 @@
 package com.rjc.java_experiments.common;
 
 
-public enum RuntimeEnvironment {
+/**
+ * Defines the set of runtime profiles considered.
+ *
+ * @author rjc
+ */
+public enum RuntimeProfile {
 
     local,
 

@@ -7,9 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class OptimizeSpringBootStartupApp {
 
-    public static void main(String... args) {
 
-        SpringApplication.run(OptimizeSpringBootStartupApp.class, args);
+    public static void main( String... args ) {
+
+        SpringApplication.run( OptimizeSpringBootStartupApp.class, args );
     }
 
 }

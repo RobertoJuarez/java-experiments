@@ -1,2 +1,2 @@
 
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.rjc.java_experiments.profile_aware_spring_boot_app_annotation.LocalProfileConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.rjc.java_experiments.local_profile_spring_boot_starter.LocalProfileConfiguration
